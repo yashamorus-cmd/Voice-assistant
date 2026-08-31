@@ -1,0 +1,1 @@
+datetime, subprocess, webbrowser, pyttsx3, speech_recognition, wikipedia, pyjokes, kivy
