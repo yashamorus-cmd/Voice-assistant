@@ -1,5 +1,5 @@
 pyttsx3 
-SpeechRecignition
+SpeechRecognition
 wikipedia 
 pyjokes 
 kivy
